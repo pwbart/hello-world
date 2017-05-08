@@ -1,3 +1,4 @@
 # hello-world
-learning GitHub
+
+Learn the concept of GitHub
 Understanding branches, master, source code and more!
